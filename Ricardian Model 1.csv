@@ -1,0 +1,9 @@
+﻿Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code (CPC),Item,Year Code,Year,Unit,Value,Flag,Flag Description,Note
+"QCL","Crops and livestock products","159","China","5312","Area harvested","0113","Rice","2024","2024","ha","29256900","A","Official figure",""
+"QCL","Crops and livestock products","159","China","5510","Production","0113","Rice","2024","2024","t","209173000","A","Official figure",""
+"QCL","Crops and livestock products","159","China","5312","Area harvested","0111","Wheat","2024","2024","ha","23589400","A","Official figure",""
+"QCL","Crops and livestock products","159","China","5510","Production","0111","Wheat","2024","2024","t","140105000","A","Official figure",""
+"QCL","Crops and livestock products","356","India","5312","Area harvested","0113","Rice","2024","2024","ha","50511930","A","Official figure",""
+"QCL","Crops and livestock products","356","India","5510","Production","0113","Rice","2024","2024","t","217867864.16","A","Official figure",""
+"QCL","Crops and livestock products","356","India","5312","Area harvested","0111","Wheat","2024","2024","ha","31832884","A","Official figure",""
+"QCL","Crops and livestock products","356","India","5510","Production","0111","Wheat","2024","2024","t","113292368","A","Official figure",""
