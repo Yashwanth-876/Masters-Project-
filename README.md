@@ -144,12 +144,12 @@ The project follows these major steps:
 
 ---
 
-## Author
+## Academic Information
 
-**Mamidala Yashwanth Reddy**
-Postgraduate Student
-Banaras Hindu University
-Statistics and Computing
+**Student:** Mamidala Yashwanth Reddy  
+**Programme:** M.Sc. Statistics & Computing  
+**Institution:** Banaras Hindu University  
+**Supervisor:** Dr. Akanksha Gupta
 
 ---
 
